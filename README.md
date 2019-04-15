@@ -12,7 +12,7 @@ npm i @hattmo/assetloader
 
 ## How to use
 
-To use add a asset property to your config.json
+To use add an assets property to your config.json
 
 ```json
 {
