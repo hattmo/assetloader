@@ -16,21 +16,16 @@ To use add a asset property to your config.json
 
 ```json
 {
-  ...
-
   "bugs": {
     "url": "https://github.com/bob/myproject.gt/issues"
   },
   "homepage": "https://github.com/bob/myproject.gt#readme",
-  ### ADD and assets property which is an array of filename and uri
   "assets" : [
     {
       "filename":"myimage.png",
       "uri":"https://fileRepository.com/images/myimage.png"
     }
   ]
-
-  ...
 }
 ```
 
