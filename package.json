@@ -1,6 +1,6 @@
 {
   "name": "@hattmo/assetloader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Loads static assets from urls",
   "main": "dist/lib/assetLoader.js",
   "private": false,
